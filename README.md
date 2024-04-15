@@ -1,16 +1,17 @@
 # Pick Your Court #
 
-* Overview *
+### Overview ###
 
 Pick Your Court is a user-friendly Court Reservation Web Application designed to cater to students, instructors, and staff at UREC (University Recreation Center). It streamlines the process of reserving courts, allowing members to effortlessly schedule bookings, manage reservations, and access real-time availability information.
 
-Installation
+### Installation ###
 To run the application locally, follow these steps:
 
-Install dependencies using npm install.
-Start the server by running node app.js.
-Alternatively, you can directly visit https://pickyourcourt.onrender.com/ without any installation requirements.
-Features
+1) Install dependencies using * npm install*
+2) Start the server by running * node app.js *
+Alternatively, you can directly visit * https://pickyourcourt.onrender.com/ * without any installation requirements.
+
+### Features ###
 Effortless Court Bookings: Reserve your favorite court with just a few clicks.
 Real-time Availability: Access up-to-date information on court availability.
 User-Friendly Interface: Intuitive design for easy navigation and booking.
