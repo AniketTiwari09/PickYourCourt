@@ -7,9 +7,9 @@ Pick Your Court is a user-friendly Court Reservation Web Application designed to
 ### Installation ###
 To run the application locally, follow these steps:
 
-1) Install dependencies using * npm install*
-2) Start the server by running * node app.js *
-Alternatively, you can directly visit * https://pickyourcourt.onrender.com/ * without any installation requirements.
+1) Install dependencies using **npm install**
+2) Start the server by running **node app.js**
+Alternatively, you can directly visit **https://pickyourcourt.onrender.com/** without any installation requirements.
 
 ### Features ###
 Effortless Court Bookings: Reserve your favorite court with just a few clicks.
