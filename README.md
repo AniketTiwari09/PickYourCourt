@@ -1,6 +1,7 @@
 # Pick Your Court #
 
-Overview
+* Overview *
+
 Pick Your Court is a user-friendly Court Reservation Web Application designed to cater to students, instructors, and staff at UREC (University Recreation Center). It streamlines the process of reserving courts, allowing members to effortlessly schedule bookings, manage reservations, and access real-time availability information.
 
 Installation
