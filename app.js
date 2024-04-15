@@ -10,7 +10,10 @@ const mainRoutes = require('./routes/mainRoutes');
 const tradeRoutes = require('./routes/tradeRoutes');
 const bookingRoutes = require('./routes/bookingRoutes');
 const userRoutes = require('./routes/userRoutes');
+<<<<<<< HEAD
 const feedbackRoutes = require('./routes/feedackRoute');
+=======
+>>>>>>> 118a3f570c47546a6a2ed4ed625c3d7081712ee4
 const mongoUrl = 'mongodb+srv://pyc:pyctest123@cluster0.smcdpeg.mongodb.net/PickYourCourt?retryWrites=true&w=majority';
 const ejs = require('ejs');
 
@@ -65,7 +68,10 @@ app.use('/', mainRoutes);
 app.use('/trades', tradeRoutes);
 app.use('/bookings', bookingRoutes);
 app.use('/users', userRoutes);
+<<<<<<< HEAD
 app.use('/feedbacks', feedbackRoutes); // Corrected path
+=======
+>>>>>>> 118a3f570c47546a6a2ed4ed625c3d7081712ee4
 
 //error handler
 app.use((req, res, next) => {
